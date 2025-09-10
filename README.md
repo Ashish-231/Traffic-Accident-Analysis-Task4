@@ -23,5 +23,5 @@ This project analyzes traffic accident data to identify:
 ## 📂 Files
 - ![Task_4](Task_4.ipynb) – Jupyter Notebook
 - ![Accident Dataset](Accident_Sample.csv) - Dataset Used
-- `Accident_Dataset.csv` – Dataset
-- `charts/` – Visualization screenshots
+  ⚠️ Note: The full dataset is too large to upload on GitHub.  
+A sample dataset (5000 rows) is provided for testing the notebook. 
